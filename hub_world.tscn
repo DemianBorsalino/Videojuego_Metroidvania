@@ -1,0 +1,22 @@
+[gd_scene load_steps=3 format=3 uid="uid://tlpjjdlrrj3w"]
+
+[ext_resource type="PackedScene" uid="uid://dna7gum1hl58" path="res://plataforma.tscn" id="1_1iog8"]
+[ext_resource type="PackedScene" uid="uid://bxjcqy7kri84i" path="res://player.tscn" id="2_oe58s"]
+
+[node name="HubWorld" type="Node2D"]
+
+[node name="Plataforma" parent="." instance=ExtResource("1_1iog8")]
+position = Vector2(590, 521)
+scale = Vector2(3, 3)
+
+[node name="Plataforma2" parent="." instance=ExtResource("1_1iog8")]
+position = Vector2(921, 300)
+scale = Vector2(0.9, 0.9)
+
+[node name="Plataforma3" parent="." instance=ExtResource("1_1iog8")]
+position = Vector2(254, 300)
+scale = Vector2(0.9, 0.9)
+
+[node name="Player" parent="." instance=ExtResource("2_oe58s")]
+position = Vector2(586, 350)
+scale = Vector2(3, 3)
