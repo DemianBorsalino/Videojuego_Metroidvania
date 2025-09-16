@@ -1,1 +1,4 @@
 res://player.tscn
+res://States/State.gd
+res://state_machine.gd
+res://States/playerIdle.gd
