@@ -1,0 +1,27 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1758057911
+hub_world.tscn::PackedScene::1357223489321665322::1757906074::0::1::::<><><>0<>0<><>::uid://dna7gum1hl58::::res://plataforma.tscn<>uid://bxjcqy7kri84i::::res://player.tscn
+icon.svg::CompressedTexture2D/CompressedTexture2D::2838878888917082416::1757167646::1757167654::1::::<><><>0<>0<>3393b74042132b1bf573a96e016d7005<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+plataforma.tscn::PackedScene::237460933738278817::1757906074::0::1::::<><><>0<>0<><>::uid://cmc45jn77wkva::::res://Transparent PNG/Metal Wall Game Background-03.png
+player.tscn::PackedScene::4019494804313965430::1757906890::0::1::::<><><>0<>0<><>::uid://dlksqthlcgb7o::::res://SM.gd
+SM.gd::GDScript::7953105596470515906::1757906720::0::1::::StateMachine<>Node<><>0<>0<><>::
+sprite_2d.gd::GDScript::4954953406717552331::1757905963::0::1::::<>Sprite2D<><>0<>0<><>::
+State.gd::GDScript::1579738858436094719::1757906396::0::1::::State<>Node<><>0<>0<><>::
+StateMachine.gd::GDScript/GDScript::2338178243043395065::1757906378::0::1::::StateMachine<>Node<><>0<>0<><>::
+::res://Samurai_Archer/::1757906407
+Arrow.png::CompressedTexture2D/CompressedTexture2D::5301739685684029481::1757190755::1757190756::1::::<><><>0<>0<>47fd22cc0d1a006dd40a5531b938338a<>res://.godot/imported/Arrow.png-3482b7da214392c0aacba5872f0b0059.ctex::
+Attack_1.png::CompressedTexture2D/CompressedTexture2D::6257537182468702708::1757190755::1757190756::1::::<><><>0<>0<>a7c1ede2dd69d7b2ae2d9c71473ace9b<>res://.godot/imported/Attack_1.png-ddd2a9a0a7aec90c3f6c4349a67c1f71.ctex::
+Attack_2.png::CompressedTexture2D/CompressedTexture2D::2008664102011516078::1757190756::1757190756::1::::<><><>0<>0<>d1baee9016d6a241232d6f53e06c5961<>res://.godot/imported/Attack_2.png-e8524a5e9d6f0db86ea884a69d32c84b.ctex::
+Attack_3.png::CompressedTexture2D/CompressedTexture2D::6463065862877978163::1757190756::1757190756::1::::<><><>0<>0<>329eabb33c2057f5774cc1ca5b5663d0<>res://.godot/imported/Attack_3.png-3399307a7f3aef0b11262b0ddbe39987.ctex::
+Dead.png::CompressedTexture2D/CompressedTexture2D::4287507625766313970::1757190756::1757190756::1::::<><><>0<>0<>cf4c82494de4123157185fefef6fb794<>res://.godot/imported/Dead.png-0d7dabc9771d61707185f17e7fcbd528.ctex::
+Hurt.png::CompressedTexture2D/CompressedTexture2D::4024626872386123347::1757190756::1757190756::1::::<><><>0<>0<>4eefc5a8bd35cedc14c8c168f7e419ca<>res://.godot/imported/Hurt.png-93787948bd6b175e465859d66f771490.ctex::
+Idle.png::CompressedTexture2D/CompressedTexture2D::4293066645383934649::1757190756::1757190756::1::::<><><>0<>0<>8249db7043d0bb78b39763fcdc007d0e<>res://.godot/imported/Idle.png-835d5c482a3e817cbfacd0e39f23a428.ctex::
+Jump.png::CompressedTexture2D/CompressedTexture2D::3947266621451740364::1757190756::1757190756::1::::<><><>0<>0<>0652b7760307e825050b627c644227c1<>res://.godot/imported/Jump.png-bc1299ba8eb01a7cba6d03ec644462d6.ctex::
+Run.png::CompressedTexture2D/CompressedTexture2D::4508035556566633113::1757190756::1757190756::1::::<><><>0<>0<>5ba1011d220a43c3f9e0f5be9c634a70<>res://.godot/imported/Run.png-3fe658c611f4289fd45a5c51cb756efe.ctex::
+Shot.png::CompressedTexture2D/CompressedTexture2D::9206979851866030443::1757190756::1757190756::1::::<><><>0<>0<>351b8db1ce9fa1e632d091b5ee32b508<>res://.godot/imported/Shot.png-eeaa72acf647c75033604cf4659963cb.ctex::
+Walk.png::CompressedTexture2D/CompressedTexture2D::8081576352948623321::1757190756::1757190756::1::::<><><>0<>0<>52957fa0f7453ee4d3a8c1e50c8f3aba<>res://.godot/imported/Walk.png-c003276116b30dd065e6be013e562913.ctex::
+::res://Transparent PNG/::1757190157
+Metal Wall Game Background-01.png::CompressedTexture2D/CompressedTexture2D::7049168198353415388::1757190157::1757190157::1::::<><><>0<>0<>253c220dd814d3bf702bc885543ad22b<>res://.godot/imported/Metal Wall Game Background-01.png-4ed3f093330546360c71043b9a3faa6f.ctex::
+Metal Wall Game Background-02.png::CompressedTexture2D/CompressedTexture2D::8478710105306149002::1757190157::1757190157::1::::<><><>0<>0<>6c17c8e92f57ff3f2da628ebfb68dede<>res://.godot/imported/Metal Wall Game Background-02.png-cd5a3740fd11d46ffba2f97e9c9dd9c8.ctex::
+Metal Wall Game Background-03.png::CompressedTexture2D/CompressedTexture2D::5621051107448266594::1757190157::1757190157::1::::<><><>0<>0<>b06ca756aed87536a1fa56e52c19dcd7<>res://.godot/imported/Metal Wall Game Background-03.png-8b80554296f7366355d1bb865241f76b.ctex::
+Metal Wall Game Background-04.png::CompressedTexture2D/CompressedTexture2D::5417075778822011492::1757190157::1757190157::1::::<><><>0<>0<>9f405af1cce6cadddac1e12c05a15577<>res://.godot/imported/Metal Wall Game Background-04.png-822a8522d04d04df17cbad6884f70350.ctex::
