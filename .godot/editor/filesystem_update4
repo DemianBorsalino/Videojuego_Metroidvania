@@ -1,4 +1,5 @@
+res://hub_world.tscn
+res://plataforma.tscn
 res://player.tscn
-res://States/State.gd
-res://state_machine.gd
-res://States/playerIdle.gd
+res://player.gd
+res://States/playerJump.gd
